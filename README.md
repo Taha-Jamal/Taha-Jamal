@@ -10,8 +10,7 @@
 
   ---
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Taha-Jamal&show_icons=true&theme=tokyonight&hide_border=true" alt="Taha's Stats" />
-
+  ![Taha's Stats](https://github-readme-stats.vercel.app/api?username=Taha-Jamal&show_icons=true&theme=tokyonight&hide_border=true)
 </div>
 
 ### 🧐 About Me
